@@ -1,0 +1,9 @@
+.Text {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.Paragraph {
+  color: var(--work-presets-text-white-mode-primary-g-800, #333);
+}

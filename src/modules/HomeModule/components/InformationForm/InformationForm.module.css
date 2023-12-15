@@ -1,0 +1,22 @@
+.InformationForm {
+  width: 100%;
+  max-width: 400px;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+.InformationForm > button {
+  margin-top: 23px;
+  width: fit-content;
+}
+
+@media only screen and (max-width: 768px) {
+  .InformationForm {
+    margin: 0 auto;
+  }
+
+  .InformationForm > button {
+    width: auto;
+  }
+}

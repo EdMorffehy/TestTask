@@ -1,0 +1,25 @@
+.Button {
+  padding: 12px 16px;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 500;
+  outline: none;
+  cursor: pointer;
+  line-height: 100%;
+}
+
+.Button:hover {
+  box-shadow: 0 0 3px 0 var(--purple-100);
+}
+
+.Button[data-variant="contained"] {
+  border: none;
+  color: var(--grey-0-white, #fff);
+  background: var(--purple-100, #5558fa);
+}
+
+.Button[data-variant="outlined"] {
+  background-color: var(--grey-0-white, #fff);
+  color: var(--purple-100, #5558fa);
+  border: 1px solid var(--purple-100, #5558fa);
+}

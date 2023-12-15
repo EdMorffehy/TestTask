@@ -1,0 +1,18 @@
+.CheckBoxContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.Label {
+  color: var(--work-presets-text-white-mode-primary-g-800, #333);
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.CheckBoxInner {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}

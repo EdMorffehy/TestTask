@@ -1,0 +1,83 @@
+@font-face {
+  font-family: "TT Travels";
+  src: url("./tttravels/TT Travels Trial Regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "TT Travels";
+  src: url("./tttravels/TT Travels Trial Regular Italic.otf") format("opentype");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "TT Travels";
+  src: url("./tttravels/TT Travels Trial Medium.otf") format("opentype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "TT Travels";
+  src: url("./tttravels/TT Travels Trial Medium Italic.otf") format("opentype");
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "TT Travels";
+  src: url("./tttravels/TT Travels Trial DemiBold.otf") format("opentype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "TT Travels";
+  src: url("./tttravels/TT Travels Trial DemiBold Italic.otf") format("opentype");
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "TT Travels";
+  src: url("./tttravels/TT Travels Trial Bold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "TT Travels";
+  src: url("./tttravels/TT Travels Trial Bold Italic.otf") format("opentype");
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "TT Travels";
+  src: url("./tttravels/TT Travels Trial ExtraBold.otf") format("opentype");
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "TT Travels";
+  src: url("./tttravels/TT Travels Trial ExtraBold Italic.otf") format("opentype");
+  font-weight: 800;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "TT Travels";
+  src: url("./tttravels/TT Travels Trial Black.otf") format("opentype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "TT Travels";
+  src: url("./tttravels/TT Travels Trial Black Italic.otf") format("opentype");
+  font-weight: 900;
+  font-style: italic;
+}

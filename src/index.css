@@ -1,0 +1,47 @@
+@import "./shared/fonts/fonts.css";
+
+:root {
+  font-family: "TT Travels", Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-weight: 400;
+
+  --bg-layout-white: #f4f4f5;
+  --preset-tag-blue-light: rgba(213, 228, 247, 1);
+
+  --black-alpha-alpha-4: rgba(0, 0, 0, 0.04);
+  --black-alpha-alpha-8: rgba(0, 0, 0, 0.08);
+  --black-alpha-alpha-16: rgba(0, 0, 0, 0.16);
+  --black-alpha-alpha-48: rgba(0, 0, 0, 0.48);
+  --blue-grey-100: rgba(33, 40, 48, 1);
+
+  --grey-900: rgba(26, 26, 26, 1);
+  --grey-0-white: rgba(255, 255, 255, 1);
+
+  --presettagblue-light: rgba(213, 228, 247, 1);
+  --purple-100: rgba(85, 88, 250, 1);
+  --purple-115: rgba(72, 75, 213, 1);
+
+  --text-text-2-font-family: "SBSans Interface-Regular", Helvetica;
+  --text-text-2-font-size: 14px;
+  --text-text-2-font-style: normal;
+  --text-text-2-font-weight: 400;
+  --text-text-2-letter-spacing: 0px;
+  --text-text-2-line-height: 20px;
+
+  --text-text-3-font-family: "SBSans Interface-Regular", Helvetica;
+  --text-text-3-font-size: 12px;
+  --text-text-3-font-style: normal;
+  --text-text-3-font-weight: 400;
+  --text-text-3-letter-spacing: 0px;
+  --text-text-3-line-height: 16px;
+  --work-presets-text-white-mode-primary-g-800: rgba(51, 51, 51, 1);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#root * {
+  transition: 0.3s;
+}

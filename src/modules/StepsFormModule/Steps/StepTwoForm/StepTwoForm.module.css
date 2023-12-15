@@ -1,0 +1,23 @@
+.StepFormAdvantagesContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.StepFormAdvantages {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.StepFormAdvantagesLabel {
+  color: var(--work-presets-text-white-mode-primary-g-800, #333);
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.StepFormAdvantagesInput {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}

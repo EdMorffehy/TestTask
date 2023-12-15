@@ -1,0 +1,31 @@
+.StepsFormModule {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 67px;
+}
+
+.StepForm {
+  display: flex;
+  flex-direction: column;
+  gap: 88px;
+}
+
+.StepFormInner {
+  width: 100%;
+  max-width: 300px;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+.StepFormInner[data-fullWidth="1"] {
+  max-width: 100%;
+}
+
+.StepFormButtons {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

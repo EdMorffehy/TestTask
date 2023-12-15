@@ -1,0 +1,9 @@
+.SocialLinkRoot {
+  cursor: pointer;
+}
+
+.SocialLinkText {
+  color: var(--purple-100, #5558fa);
+  font-size: 12px;
+  cursor: pointer;
+}
